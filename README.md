@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Working On An E-Commerce Website<br>I'm Looking For Help With Javascript & DOM Manipulation<br>I'm Currently Perfecting HTML & CSS<br>
+I'm Working On An E-Commerce Website<br>I'm Looking For Help With Javascript & DOM Manipulation<br>I'm Currently Perfecting HTML & CSS<br>
 
 
 ## 🌐 Socials:
